@@ -18,3 +18,14 @@ git checkout main
 git pull upstream main --rebase
 git push origin main --force-with-lease
 B- Si
+
+ALFA 
+1:BETA,Crea repo Y sube README.md y fork.txt
+2:GAMMA,Hace fork → modifica fork.txt(con los comandos git add ., git commit -m "", git push) sube las respuestas → PR a BETA 
+3:ALFA,Hace fork → modifica fork.txt(con los comandos git add ., git commit -m "", git push) sube las respuestas→ PR a BETA
+4:BETA, actualiza el repo mediante una pull request y ejecuta el comando (git pull origin main)
+4:BETA,Crea NuevoDato.txt
+5:BETA,actualiza PRs de GAMMA y ALFA
+6:GAMMA,Actualiza su fork con git pull upstream y agrega respuestas y las sube(con los comandos git add ., git commit -m "", git push)
+7:ALFA,Actualiza su fork con git pull upstream y agrega respuestas y las sube(con los comandos git add ., git commit -m "", git push)
+8:BETA: actualiza el repo mediante una pull request y ejecuta el comando (git pull origin main)
