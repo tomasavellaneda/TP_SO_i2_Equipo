@@ -6,6 +6,15 @@ el fork?
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
 
-beta(cyd)
+BETA(cyd)
 c- si
 d- no
+
+GAMMA
+A-Con la siguiente lista de comandos:
+git remote add upstream https://github.com/tomasavellaneda/TP_SO_i2_Equipo.git
+git fetch upstream
+git checkout main
+git pull upstream main --rebase
+git push origin main --force-with-lease
+B- Si
