@@ -29,3 +29,6 @@ ALFA
 6:GAMMA,Actualiza su fork con git pull upstream y agrega respuestas y las sube(con los comandos git add ., git commit -m "", git push)
 7:ALFA,Actualiza su fork con git pull upstream y agrega respuestas y las sube(con los comandos git add ., git commit -m "", git push)
 8:BETA: actualiza el repo mediante una pull request y ejecuta el comando (git pull origin main)
+BETA: = Tomas Avellaneda
+GAMMA: Matias Caceres
+ALFA: Julian Ballada
